@@ -32,7 +32,6 @@ Vue.directive('pride', {
                     rainbowAnimation,
                     rainbowTiming
                 );
-                console.log(rainbowAnimation, rainbowTiming)
             }
         }
     }
