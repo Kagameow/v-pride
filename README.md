@@ -1,4 +1,4 @@
-# v-pride-directive
+# v-pride Directive
 
 ## Project setup
 ```
